@@ -2,3 +2,6 @@ build/*
 install/*
 log/*
 site/*
+src/py_pubsub/resource/*
+src/py_pubsub/test/*
+
